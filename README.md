@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rattus-aristarchus
+- 👀 I’m a freelance english-russian translator, mostly working with texts related to IT. I love writing code when I'm able to write it well, and I believe that doing it allows me to better understand what I'm translating.
+- 🌱 I’m currently learning python, and collaborating with a good friend of mine on a piece of software for a tabletop rpg we're developing together.
+- 📫 You can reach me via lankin.m.a@gmail.com
