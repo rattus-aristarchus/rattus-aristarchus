@@ -1,4 +1,5 @@
 - Hi, I’m @rattus-aristarchus
-- I’m a freelance english-russian translator, mostly working with texts related to IT. I love writing code when I'm able to write it well, and I believe that doing it allows me to better understand what I'm translating.
-- The main project I'm working on is scholastica, an app for organizing notes.
+- I’m a technical author in IT, I write mostly about QA. I've also worked as a translator (again, mostly in IT), and I have a degree in history, with a particular interest in history of technology.
+- I love writing code when I'm able to write it well, and putting that understanding into text.
+- Codewise, the main project I'm working on is scholastica, an app for organizing notes.
 - You can reach me via lankin.m.a@gmail.com
