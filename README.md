@@ -1,4 +1,4 @@
-Hi, I’m @rattus-aristarchus (Mikhail Lankin).
+Hi, I’m Mikhail Lankin.
 
 I’m a technical author and I write mostly about QA. I've also worked as a translator (again, mostly in IT), and I have a degree in history, with a particular interest in history of technology. Some of the stuff I've done lately:
 
